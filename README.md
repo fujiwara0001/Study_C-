@@ -1,2 +1,3 @@
-# Study_C
-C++勉強会用リポジトリ
+# 第5回　C++勉強会
+### ■内容
+　　Abstract Factory パターンの勉強
